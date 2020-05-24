@@ -1,0 +1,21 @@
+.kkk{
+    font-size : 1em;
+}
+#ahn{
+    background-color: skyblue;
+}
+img{
+    float : right;
+}
+#intro{
+    border: 5px solid green;
+    text-align: center;
+    padding : 10px;
+    width : 50%;
+}
+#main{
+  font-family:'Tangerine', serif;
+  font-size : 30px;
+  font-weight: bold;
+  text-decoration: overline;
+}
